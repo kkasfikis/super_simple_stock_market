@@ -1,0 +1,6 @@
+symbol,type,last_dividend,fixed_dividend,par_value
+TEA,Common,0.00,,1.00
+POP,Common,0.08,,1.00
+ALE,Common,0.23,,6.0
+GIN,Preferred,0.08,0.02,1.00
+JOE,Common,0.13,,2.50
